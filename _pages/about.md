@@ -33,7 +33,7 @@ Miscellaneous
 ====
 I love sports and enjoy professional trainings. 
 
-In highschool, I've won championships for multiple provincial competitions, and received the Chinese National second-level athelete (Badminton) Certification;
+In highschool, I won championships for multiple provincial competitions, and received the Chinese National second-level athelete (Badminton) Certification;
 
 Since college, I trained myself massively in running and powerlifting:<br>
 - finished Beijing International Marathon in 4 hours 33 minutes, despite a sprained ankle;<br>
