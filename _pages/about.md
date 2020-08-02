@@ -12,16 +12,16 @@ I am a Ph.D. student at the Computer Science Department of Rutgers University an
 
 Research interests
 ======
-Database Systems 
-High Dimensional Data
-Nearest Neighbor Search
-Graph Data Management
+Database Systems <br>
+High Dimensional Data <br>
+Nearest Neighbor Search <br>
+Graph Data Management <br>
 Parallel Computing
 
 
 Publications
 ======
-1. Towards Managing High Dimensional Data in Column-Oriented Database Systems <em>__VLDB 2020__</em>(__Accepted with Shepherding__)<br>
+1. Towards Managing High Dimensional Data in Column-Oriented Database Systems <em>__VLDB 2020__</em> (__Accepted with Shepherding__)<br>
     __Runhui Wang__, Dong Deng.
 1. [Parallelizing Approximate Single-Source Personalized PageRank Queries on Shared-Memory](https://link.springer.com/article/10.1007/s00778-019-00576-7) <em>__VLDB Journal__</em><br>
     __Runhui Wang__, Sibo Wang, Xiaofang Zhou.
