@@ -29,10 +29,13 @@ Publications
     Sibo Wang, Renchi Yang, __Runhui Wang__, Wenqing Lin, Xiaokui Xiao, Nan Tang.
     
 
-Extracurricular Achievements
+Miscellaneous
 ====
-1. 455lbs deadlift (Nov 2019)
-1. First World Renowned Universities’ Dragon Boat Competition (Oct 2015)<br> 6th Place in 4000m Race
-1. Nike University Elite Challenge-Wei Ming Relay (May 2015) <br> 3rd Place
-1. Beijing International Marathon (Sep 2014) <br> Finished in 4 hours 33 minutes
-1. National “Sunlight Sport Project for Students” Badminton Challenge (Oct 2013) <br> 8th place
+I love sports and enjoy professional trainings. 
+
+In highschool, I've won championships for multiple provincial competitions, and received the Chinese National second-level athelete (Badminton) Certification;
+
+Since college, I trained myself massively in running and powerlifting:<br>
+finished Beijing International Marathon in 4 hours 33 minutes, despite a sprained ankle;<br>
+participated in Nike University Elite Challenge-Wei Ming Relay (May 2015), and won the 3rd Place;<br>
+joined the First World Renowned Universities’ Dragon Boat Competition (Oct 2015), and won the 6th Place in 4000m Race
