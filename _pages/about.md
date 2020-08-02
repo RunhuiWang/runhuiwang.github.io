@@ -1,26 +1,31 @@
 ---
 permalink: /
-title: "I am currently a Ph.D. student at the CS department of Rutgers University."
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+I am a Ph.D. student at the Computer Science Department of Rutgers University and work with [Prof. Dong Deng](https://dongdeng.github.io). I obtained M.Phil. from the University of Queenland, under the advisory of [Prof. Xiaofang Zhou](http://staff.itee.uq.edu.au/zxf/) and [Prof. Sibo Wang](http://www1.se.cuhk.edu.hk/~swang/). I obtained B.S. in Computer Science and Technology from Peking University.
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
-A data-driven personal website
+Research interests
 ======
+Database Systems 
+High Dimensional Data
+Nearest Neighbor Search
+Graph Data Management
+Parallel Computing
 
 
-
-Getting started
+Publications
 ======
-1. paper 1
-1. paper 2
-1. paper 3
+1. Towards Managing High Dimensional Data in Column-Oriented Database Systems __VLDB 2020__(__Accepted with Shepherding__)
+    __Runhui Wang__, Dong Deng.
+1. [Parallelizing Approximate Single-Source Personalized PageRank Queries on Shared-Memory](https://link.springer.com/article/10.1007/s00778-019-00576-7) __VLDB Journal__
+    __Runhui Wang__, Sibo Wang, Xiaofang Zhou.
+1. [Efficient Algorithms for Approximate Single-Source Personalized PageRank Queries](https://dl.acm.org/doi/10.1145/3360902)  __TODS__
+    Sibo Wang, Renchi Yang, __Runhui Wang__, Wenqing Lin, Xiaokui Xiao, Nan Tang.
+    
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
