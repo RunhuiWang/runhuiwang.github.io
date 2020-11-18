@@ -22,7 +22,7 @@ Research interests
 Publications
 ======
 
-1. DeltaPQ: Lossless Product Quantization Code Compression for High Dimensional Similarity Search. <em>__VLDB 2021__</em> (_To Appear_)<br>
+1. [DeltaPQ: Lossless Product Quantization Code Compression for High Dimensional Similarity Search.](http://www.vldb.org/pvldb/vol13/p3603-wang.pdf) <em>__VLDB 2020__</em> <br>
     __Runhui Wang__, Dong Deng.
 
 1. [Parallelizing Approximate Single-Source Personalized PageRank Queries on Shared-Memory.](https://link.springer.com/article/10.1007/s00778-019-00576-7) <em>__VLDB Journal__</em><br>
