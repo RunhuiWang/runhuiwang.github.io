@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a second year Ph.D. student at the Computer Science Department of __Rutgers University__ advised by [Prof. Dong Deng](https://dongdeng.github.io). I obtained M.Phil. from the __University of Queenland__ (advised by [Prof. Xiaofang Zhou](http://staff.itee.uq.edu.au/zxf/) and [Prof. Sibo Wang](http://www1.se.cuhk.edu.hk/~swang/)), and B.S. in Computer Science from __Peking University__.
+I am a second-year Ph.D. student at the Computer Science Department of __Rutgers University__ advised by [Prof. Dong Deng](https://dongdeng.github.io). I obtained M.Phil. from the __University of Queenland__ (advised by [Prof. Xiaofang Zhou](http://staff.itee.uq.edu.au/zxf/) and [Prof. Sibo Wang](http://www1.se.cuhk.edu.hk/~swang/)), and B.S. in Computer Science from __Peking University__.
 
 
 Research interests
