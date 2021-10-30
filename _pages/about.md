@@ -7,16 +7,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a second-year Ph.D. student at the Computer Science Department of __Rutgers University__ advised by [Prof. Dong Deng](https://dongdeng.github.io). I obtained M.Phil. from the __University of Queensland__ (advised by [Prof. Xiaofang Zhou](http://staff.itee.uq.edu.au/zxf/) and [Prof. Sibo Wang](http://www1.se.cuhk.edu.hk/~swang/)), and B.S. in Computer Science from __Peking University__.
+I am a third-year Ph.D. student at the Computer Science Department of __Rutgers University__, under the advisory of [Prof.Dong Deng](https://people.cs.rutgers.edu/~dd903/). I obtained M.Phil. from the __University of Queensland__ (advised by [Prof. Xiaofang Zhou](http://staff.itee.uq.edu.au/zxf/) and [Prof. Sibo Wang](http://www1.se.cuhk.edu.hk/~swang/)), and B.S. in Computer Science from __Peking University__.
 
+I worked as a Research Scientist Intern at [Megagon Labs](https://megagon.ai/) during the summer of 2021. I was honored to be mentored by [Yuliang Li](https://oi02lyl.github.io/) and [Jin Wang](http://yellowstone.cs.ucla.edu/~jinwang/).
 
 Research interests
 ======
-- Database Systems <br>
-- High Dimensional Data <br>
-- Nearest Neighbor Search <br>
-- Graph Data Management <br>
-- Parallel Computing
+- Data Integration <br>
+- Deep Learning <br>
+- Nearest Neighbor Search <br> 
+- Parallel Computing <br>
+- Graph Algorithms
 
 
 Publications
