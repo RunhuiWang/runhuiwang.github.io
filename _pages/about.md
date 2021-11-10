@@ -13,7 +13,7 @@ I worked as a Research Scientist Intern at [Megagon Labs](https://megagon.ai/) d
 
 Research interests
 ======
-- Data Integration <br>
+- Entity Matching <br>
 - Deep Learning <br>
 - Natural Language Processing <br>
 - Similarity Search <br> 
