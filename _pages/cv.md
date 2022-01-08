@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
-[CV](https://runhuiwang.github.io/files/CV_Runhui_WANG.pdf)
+[My latest CV](https://runhuiwang.github.io/files/CV_Runhui_WANG.pdf)
+
 <!-- ... 
 Education
 ======
