@@ -24,7 +24,7 @@ Research interests
 
 Publications
 ======
-1. [Sudowoodo: Contrastive Self-supervised Learning for Multi-purpose Data Integration and Preparation](https://arxiv.org/pdf/2207.04122.pdf) <em>__ICDE 2023 (To Appear)__</em> [Code](https://github.com/megagonlabs/sudowoodo)<br> 
+1. [Sudowoodo: Contrastive Self-supervised Learning for Multi-purpose Data Integration and Preparation](https://arxiv.org/pdf/2207.04122.pdf) <em>__ICDE 2023__</em> [Code](https://github.com/megagonlabs/sudowoodo)<br> 
     __Runhui Wang__, Yuliang Li, Jin Wang.
 
 1. [DeltaPQ: Lossless Product Quantization Code Compression for High Dimensional Similarity Search.](http://www.vldb.org/pvldb/vol13/p3603-wang.pdf) <em>__VLDB 2021__</em> [Code](https://github.com/RunhuiWang/DeltaPQ)<br> 
