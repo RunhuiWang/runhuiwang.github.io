@@ -30,7 +30,7 @@ Publications
 1. [DeltaPQ: Lossless Product Quantization Code Compression for High Dimensional Similarity Search.](http://www.vldb.org/pvldb/vol13/p3603-wang.pdf) <em>__VLDB 2021__</em> [Code](https://github.com/RunhuiWang/DeltaPQ)<br> 
     __Runhui Wang__, Dong Deng.
 
-1. [Parallelizing Approximate Single-Source Personalized PageRank Queries on Shared-Memory.](https://link.springer.com/article/10.1007/s00778-019-00576-7) <em>__VLDB Journal__</em><br>
+1. [Parallelizing Approximate Single-Source Personalized PageRank Queries on Shared-Memory.](https://link.springer.com/article/10.1007/s00778-019-00576-7) <em>__VLDB Journal__</em> [Code](https://github.com/RunhuiWang/PAFO-release)<br>
     __Runhui Wang__, Sibo Wang, Xiaofang Zhou.
 1. [Efficient Algorithms for Approximate Single-Source Personalized PageRank Queries.](https://dl.acm.org/doi/10.1145/3360902)  <em>__TODS__</em><br>
     Sibo Wang, Renchi Yang, __Runhui Wang__, Xiaokui Xiao, Zhewei Wei, Wenqing Lin, Yin Yang, Nan Tang.
