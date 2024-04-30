@@ -27,7 +27,7 @@ Publications
 1. [Neural Locality Sensitive Hashing for Entity Blocking](https://epubs.siam.org/doi/10.1137/1.9781611978032.101) <em>__SDM 2024__</em> <br> 
     __Runhui Wang__, Luyang Kong, Yefan Tao, Andrew Borthwick, Davor Golac, Henrik Johnson, Shadie Hijazi, Dong Deng, Yongfeng Zhang.
 
-1. [Pre-trained Language Models for Entity Blocking: A Reproducibility Study] <em>__NAACL 2024__</em> <br> 
+1. Pre-trained Language Models for Entity Blocking: A Reproducibility Study <em>__NAACL 2024__</em> <br> 
     __Runhui Wang__, Yongfeng Zhang.
 
 1. [Language is All a Graph Needs](https://arxiv.org/abs/2308.07134) <em>__EACL 2024 Findings__</em> <br> 
