@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Ph.D. candidate at the Computer Science Department of __Rutgers University__, advised by [Prof. Yongfeng Zhang](http://yongfeng.me/). My current research focus is on large language models and deep learning for data integration. Previously, I worked on similarity search for high dimensional data, advised by [Prof. Dong Deng](https://people.cs.rutgers.edu/~dd903/). I obtained M.Phil. from the __University of Queensland__ (advised by [Prof. Xiaofang Zhou](http://staff.itee.uq.edu.au/zxf/) and [Prof. Sibo Wang](http://www1.se.cuhk.edu.hk/~swang/)), and B.S. in Computer Science from __Peking University__.
+I am an Applied Scientist at Amazon Web Services. I obtained my Ph.D. from the Computer Science Department of __Rutgers University__, advised by [Prof. Yongfeng Zhang](http://yongfeng.me/). My current research focus is on large language models and deep learning for data integration. Previously, I worked on similarity search for high dimensional data, advised by [Prof. Dong Deng](https://people.cs.rutgers.edu/~dd903/). I obtained M.Phil. from the __University of Queensland__ (advised by [Prof. Xiaofang Zhou](http://staff.itee.uq.edu.au/zxf/) and [Prof. Sibo Wang](http://www1.se.cuhk.edu.hk/~swang/)), and B.S. in Computer Science from __Peking University__.
 
-I worked as an Applied Scientist Intern at Amazon Web Services and developed deep learning models for Identity Resolution in 2022. I worked as a Research Scientist Intern at [Megagon Labs](https://megagon.ai/) during the summer of 2021. I was honored to be mentored by [Dr. Yuliang Li](https://oi02lyl.github.io/) and [Dr. Jin Wang](http://yellowstone.cs.ucla.edu/~jinwang/).
+I worked as an Applied Scientist Intern at Amazon Web Services and developed deep learning models for Identity Resolution in 2022. I worked as a Research Scientist Intern at [Megagon Labs](https://megagon.ai/) during the summer of 2021, mentored by [Dr. Yuliang Li](https://oi02lyl.github.io/) and [Dr. Jin Wang](http://yellowstone.cs.ucla.edu/~jinwang/).
 
 Research interests
 ======
@@ -24,6 +24,16 @@ Research interests
 
 Publications
 ======
+1. [Neural Locality Sensitive Hashing for Entity Blocking](https://epubs.siam.org/doi/10.1137/1.9781611978032.101) <em>__SDM 2024__</em> <br> 
+    __Runhui Wang__, Luyang Kong, Yefan Tao, Andrew Borthwick, Davor Golac, Henrik Johnson, Shadie Hijazi, Dong Deng, Yongfeng Zhang.
+
+1. [Pre-trained Language Models for Entity Blocking: A Reproducibility Study] <em>__NAACL 2024__</em> <br> 
+    __Runhui Wang__, Yongfeng Zhang.
+
+1. [Language is All a Graph Needs](https://arxiv.org/abs/2308.07134) <em>__EACL 2024 Findings__</em> <br> 
+    Ruosong Ye, Caiqi Zhang, __Runhui Wang__, Shuyuan Xu, Yongfeng Zhang.
+
+
 1. [Sudowoodo: Contrastive Self-supervised Learning for Multi-purpose Data Integration and Preparation](https://arxiv.org/pdf/2207.04122.pdf) <em>__ICDE 2023__</em> [Code](https://github.com/megagonlabs/sudowoodo)<br> 
     __Runhui Wang__, Yuliang Li, Jin Wang.
 
