@@ -24,6 +24,10 @@ Research interests
 
 Publications
 ======
+
+1. [CSR-Bench: Benchmarking LLM Agents in Deployment of Computer Science Research Repositories](https://arxiv.org/abs/2502.06111) <em>__NAACL 2025__</em> <br> 
+    Yijia, Xiao, __Runhui Wang__, Luyang Kong, Davor Goalc, Wei Wang.
+
 1. [Neural Locality Sensitive Hashing for Entity Blocking](https://epubs.siam.org/doi/10.1137/1.9781611978032.101) <em>__SDM 2024__</em> <br> 
     __Runhui Wang__, Luyang Kong, Yefan Tao, Andrew Borthwick, Davor Golac, Henrik Johnson, Shadie Hijazi, Dong Deng, Yongfeng Zhang.
 
