@@ -14,7 +14,7 @@ I worked as an Applied Scientist Intern at Amazon Web Services and developed dee
 Research interests
 ======
 - Recommender Systems <br>
-- Natural Language Processing <br>
+- LLM Agents <br>
 - Entity Resolution <br>
 - Deep Learning <br>
 - Similarity Search <br> 
