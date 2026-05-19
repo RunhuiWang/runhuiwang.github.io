@@ -13,7 +13,7 @@ Before AWS I completed my Ph.D. at **Rutgers University** under [Prof. Yongfeng 
 
 I'm interested in the hardware-software seam of LLM training and inference — RL post-training systems, kernels, and serving infrastructure. I previously interned at AWS (Applied Scientist, 2022) and at [Megagon Labs](https://megagon.ai/) (Research Scientist, 2021), mentored by [Dr. Yuliang Li](https://oi02lyl.github.io/) and [Dr. Jin Wang](http://yellowstone.cs.ucla.edu/~jinwang/).
 
-Research interests
+
 ======
 # Research interests
 
@@ -29,9 +29,6 @@ Research interests
 - **[DeltaPQ](https://github.com/RunhuiWang/DeltaPQ)** — Lossless product quantization compression for similarity search (VLDB 2021)
 - **[PAFO](https://github.com/RunhuiWang/PAFO-release)** — Parallel approximate personalized PageRank (VLDB Journal 2019)
 
-
-Publications
-======
 
 # Publications
 
