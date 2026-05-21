@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm an Applied Scientist at **AWS**, where I build RL post-training infrastructure on Nvidia B200/B300 — VeRL, vLLM, flash-attention, custom kernels. I also work on LLM-based retrieval and entity matching at billion scale for the AWS Entity Resolution Service.
+I'm an Applied Scientist at **AWS**, where I work on RLVF/RLAIF and build reliable post-training and inference infrastructure on Nvidia B200/B300 with VeRL, vLLM, flash-attention, custom kernels. I also work on LLM-based retrieval and entity matching at billion scale for the AWS Entity Resolution Service, where I design, build and ship ML solutions for enterprise customers.
 
 Before AWS I completed my Ph.D. at **Rutgers University** under [Prof. Yongfeng Zhang](http://yongfeng.me/) and [Prof. Dong Deng](https://people.cs.rutgers.edu/~dd903/), focused on LLMs for data integration, retrieval, and similarity search. M.Phil. at the **University of Queensland** with [Prof. Xiaofang Zhou](http://staff.itee.uq.edu.au/zxf/) (IEEE Fellow) and [Prof. Sibo Wang](http://www1.se.cuhk.edu.hk/~swang/). B.S. from **Peking University**.
 
@@ -16,7 +16,9 @@ I'm interested in the hardware-software seam of LLM training and inference — R
 
 # Research interests
 
+- RL post-training for LLMs and beyond (GRPO, RLAIF, DPO) <br>
 - RL post-training infrastructure <br> 
+- LLM Agents <br>
 - LLM serving & inference optimization <br> 
 - Kernels and hardware-software co-design <br> 
 - LLM-based retrieval and entity matching <br> 
@@ -24,7 +26,7 @@ I'm interested in the hardware-software seam of LLM training and inference — R
 
 # Open Source
 
-- Personal 4×RTX 4090 home cluster — VeRL, vLLM, and flash-attention experiments
+- **[CSR Bench](https://github.com/amazon-science/CSR-Bench) ** Multi-Agent system for automatic computer science research repo exploration
 - **[DeltaPQ](https://github.com/RunhuiWang/DeltaPQ)** — Lossless product quantization compression for similarity search (VLDB 2021)
 - **[PAFO](https://github.com/RunhuiWang/PAFO-release)** — Parallel approximate personalized PageRank (VLDB Journal 2019)
 
