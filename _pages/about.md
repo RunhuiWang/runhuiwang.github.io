@@ -19,8 +19,6 @@ I'm interested in the hardware-software seam of LLM training and inference — R
 - RL post-training for LLMs and beyond (GRPO, RLAIF, DPO) <br>
 - RL post-training infrastructure <br> 
 - LLM Agents <br>
-- LLM serving & inference optimization <br> 
-- Kernels and hardware-software co-design <br> 
 - LLM-based retrieval and entity matching <br> 
 - Efficient Large-Scale Similarity Search <br> 
 
