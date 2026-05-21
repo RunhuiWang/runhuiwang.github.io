@@ -29,6 +29,7 @@ I'm interested in the hardware-software seam of LLM training and inference — R
 - **[CSR Bench](https://github.com/amazon-science/CSR-Bench)** - Multi-Agent system for automatic computer science research repo exploration (NAACL 2025 Oral)
 - **[DeltaPQ](https://github.com/RunhuiWang/DeltaPQ)** — Lossless product quantization compression for similarity search (VLDB 2021)
 - **[PAFO](https://github.com/RunhuiWang/PAFO-release)** — Parallel approximate personalized PageRank (VLDB Journal 2019)
+- **[Declarative Data Pipeline](https://github.com/amazon-science/DeclarativeDataPipeline)**
 
 
 # Publications
