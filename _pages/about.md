@@ -25,11 +25,11 @@ I'm interested in the hardware-software seam of LLM training and inference — R
 # Open Source
 
 - **[CSR Bench](https://github.com/amazon-science/CSR-Bench)** - Multi-Agent system for automatic computer science research repo exploration (NAACL 2025 Oral)
-- **[SkillsBench](https://github.com/benchflow-ai/skillsbench)** — Benchmark for evaluating how well AI agents leverage skills to perform specialized workflows. Independent Contributor. 
-- **[Sudowoodo](https://github.com/megagonlabs/sudowoodo)** — Contrastive self-supervised learning framework for multi-purpose data integration (entity matching, data cleaning, column type detection). ICDE 2023.
-- **[DeltaPQ](https://github.com/RunhuiWang/DeltaPQ)** — Lossless product quantization compression for similarity search (VLDB 2021)
-- **[PAFO](https://github.com/RunhuiWang/PAFO-release)** — Parallel approximate personalized PageRank (VLDB Journal 2019)
-- **[Declarative Data Pipeline](https://github.com/amazon-science/DeclarativeDataPipeline)**
+- **[SkillsBench](https://github.com/benchflow-ai/skillsbench)** - Benchmark for evaluating how well AI agents leverage skills to perform specialized workflows. Independent Contributor. 
+- **[Sudowoodo](https://github.com/megagonlabs/sudowoodo)** - Contrastive self-supervised learning framework for multi-purpose data integration (entity matching, data cleaning, column type detection). ICDE 2023.
+- **[DeltaPQ](https://github.com/RunhuiWang/DeltaPQ)** - Lossless product quantization compression for similarity search (VLDB 2021)
+- **[PAFO](https://github.com/RunhuiWang/PAFO-release)** - Parallel approximate personalized PageRank (VLDB Journal 2019)
+- **[Declarative Data Pipeline](https://github.com/amazon-science/DeclarativeDataPipeline)** - A framework for efficient and scalable ML service development
 
 
 # Publications
