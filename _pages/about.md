@@ -28,7 +28,7 @@ I'm interested in the hardware-software seam of LLM training and inference — R
 - **[CSR Bench](https://github.com/amazon-science/CSR-Bench)** - Multi-Agent system for automatic computer science research repo exploration (NAACL 2025 Oral)
 - **[SkillsBench](https://github.com/benchflow-ai/skillsbench)** - Benchmark for evaluating how well AI agents leverage skills to perform specialized workflows. Independent Contributor. [[arXiv](https://arxiv.org/abs/2602.12670)]
 - **[Sudowoodo](https://github.com/megagonlabs/sudowoodo)** - Contrastive self-supervised learning framework for multi-purpose data integration (entity matching, data cleaning, column type detection). ICDE 2023.
-- **[DeltaPQ](https://github.com/RunhuiWang/DeltaPQ)** - Lossless product quantization compression for similarity search (VLDB 2021)
+- **[DeltaPQ](https://github.com/RunhuiWang/DeltaPQ)** - Lossless product quantization compression for similarity search (PVLDB 2020)
 - **[PAFO](https://github.com/RunhuiWang/PAFO-release)** - Parallel approximate personalized PageRank (VLDB Journal 2019)
 - **[Declarative Data Pipeline](https://github.com/amazon-science/DeclarativeDataPipeline)** - A framework for efficient and scalable ML service development
 
@@ -47,7 +47,7 @@ Ruosong Ye, Caiqi Zhang, **Runhui Wang**, Shuyuan Xu, Yongfeng Zhang.
 4. [BPID: A Benchmark for Personal Identity Deduplication](https://aclanthology.org/2024.emnlp-industry.40/) ***EMNLP 2024***  
  **Runhui Wang**\*, Yefan Tao\*, Adit Krishnan\*, Luyang Kong\*, Xuanqing Liu, Yuqian Deng, Yunzhao Yang, Henrik Johnson, Andrew Borthwick, Shobhit Gupta, Aditi Sinha Gundlapalli, Davor Golac.
 
-5. [Large Language Models for Entity Blocking: A Reproducibility Study](https://aclanthology.org/2024.naacl-long.483/) ***NAACL 2024***  
+5. [Pre-trained Language Models for Entity Blocking: A Reproducibility Study](https://aclanthology.org/2024.naacl-long.483/) ***NAACL 2024***  
  **Runhui Wang**, Yongfeng Zhang.
 
 6. [GRAM: Generative Retrieval Augmented Matching of Data Schemas in the Context of Data Security](https://dl.acm.org/doi/abs/10.1145/3637528.3671602) ***KDD 2024***  
@@ -64,7 +64,7 @@ Somin Wadhwa, Adit Krishnan, **Runhui Wang**, Byron C Wallace, Luyang Kong.
 
 ### Earlier work
 
-10. [DeltaPQ: Lossless Product Quantization Code Compression for High Dimensional Similarity Search](http://www.vldb.org/pvldb/vol13/p3603-wang.pdf) ***VLDB 2021*** · [Code](https://github.com/RunhuiWang/DeltaPQ)  
+10. [DeltaPQ: Lossless Product Quantization Code Compression for High Dimensional Similarity Search](http://www.vldb.org/pvldb/vol13/p3603-wang.pdf) ***PVLDB 2020*** · [Code](https://github.com/RunhuiWang/DeltaPQ)  
  **Runhui Wang**, Dong Deng.
 
 11. [Parallelizing Approximate Single-Source Personalized PageRank Queries on Shared-Memory](https://link.springer.com/article/10.1007/s00778-019-00576-7) ***VLDB Journal 2019*** · [Code](https://github.com/RunhuiWang/PAFO-release)  
