@@ -81,7 +81,7 @@ I love sports and enjoy professional trainings.
 Since highschool, I've won championships for multiple provincial badminton competitions, and received the Chinese National Second-level Athelete Certification.
 
 Since college, I've trained myself massively in running and powerlifting:<br>
+- powerlifting: 455lbs deadlift, 415 lbs squat, 275lbs bench press<br>
 - finished Beijing International Marathon in 4 hours 33 minutes (despite a sprained ankle);<br>
 - participated in Nike University Elite Challenge-Wei Ming Relay (May 2015), and won the 3rd Place;<br>
 - joined the First World Renowned Universities’ Dragon Boat Competition (Oct 2015), and won the 6th Place in 4000m Race
-- powerlifting: 455lbs deadlift, 415 lbs squat, 255lbs bench press
