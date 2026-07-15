@@ -22,7 +22,6 @@ I'm interested in the hardware-software seam of LLM training and inference — R
 - Mechanistic interpretability and activation-level model steering <br>
 - Agentic RL and on-policy distillation <br>
 - Data-centric ML: entity resolution, retrieval, similarity search <br>
-- RL post-training for embodied and VLA models <br>
 
 # Open Source
 
