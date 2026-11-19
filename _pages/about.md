@@ -1,21 +1,23 @@
 ---
 permalink: /
 title: ""
-excerpt: "About me"
+excerpt: "Founding Research Scientist at Cline, working on AI agents and evaluation."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-I'm an Applied Scientist and technical lead at **AWS**, working on reinforcement learning for LLM post-training: GSPO, GRPO, DAPO, and RLAIF at frontier scale, rubric-based reward design with LLM judges, and reward-hacking mitigation. I build the training and inference systems underneath on NVIDIA Blackwell and Hopper clusters (verl, vLLM, FSDP, custom kernels), with a focus on training-inference consistency and quantization numerics. I also work on mechanistic interpretability, training per-layer transcoders for activation-level model steering. Previously, I built and shipped billion-scale ML products for entity resolution and retrieval.
+I'm a **Founding Research Scientist at [Cline](https://cline.bot/)**, working on AI agents and their evaluation. My current focus is **[Cline-Bench](https://cline.bot/blog/cline-bench-initiative)**, a benchmark built from real user requests. I work on task construction and validation, behavior-based grading, and reproducible evaluation pipelines to understand agents' capabilities, reliability, and efficiency. This includes identifying grading defects, testing for reward hacking, and preserving task behavior when replacing private data with synthetic examples.
 
-Before AWS I completed my Ph.D. at **Rutgers University** under [Prof. Yongfeng Zhang](http://yongfeng.me/) and [Prof. Dong Deng](https://people.cs.rutgers.edu/~dd903/), focused on LLMs for data integration, retrieval, and similarity search. M.Phil. at the **University of Queensland** with [Prof. Xiaofang Zhou](http://staff.itee.uq.edu.au/zxf/) (IEEE Fellow) and [Prof. Sibo Wang](http://www1.se.cuhk.edu.hk/~swang/). B.S. from **Peking University**.
+Previously, I was an Applied Scientist and technical lead at **AWS**, working on reinforcement learning for LLM post-training, rubric-based reward design, and reward-hacking mitigation. I built training and inference systems on NVIDIA Blackwell and Hopper clusters using verl, vLLM, FSDP, and custom kernels, with a focus on training-inference consistency and quantization numerics. My work also covered mechanistic interpretability and activation-level model steering, as well as billion-scale ML products for entity resolution and retrieval.
 
-I'm interested in the hardware-software seam of LLM training and inference — RL post-training systems, kernels, and serving infrastructure. I previously interned at AWS (Applied Scientist, 2022) and at [Megagon Labs](https://megagon.ai/) (Research Scientist, 2021), mentored by [Dr. Yuliang Li](https://oi02lyl.github.io/) and [Dr. Jin Wang](http://yellowstone.cs.ucla.edu/~jinwang/).
+I completed my Ph.D. at **Rutgers University** under [Prof. Yongfeng Zhang](http://yongfeng.me/) and [Prof. Dong Deng](https://people.cs.rutgers.edu/~dd903/), focused on LLMs for data integration, retrieval, and similarity search. I received my M.Phil. from the **University of Queensland**, working with [Prof. Xiaofang Zhou](http://staff.itee.uq.edu.au/zxf/) (IEEE Fellow) and [Prof. Sibo Wang](http://www1.se.cuhk.edu.hk/~swang/), and my B.S. from **Peking University**. I previously interned at AWS (Applied Scientist, 2022) and [Megagon Labs](https://megagon.ai/) (Research Scientist, 2021), mentored by [Dr. Yuliang Li](https://oi02lyl.github.io/) and [Dr. Jin Wang](http://yellowstone.cs.ucla.edu/~jinwang/).
 
 
 # Research interests
 
+- AI agents: coding, tool use, and long-horizon task execution <br>
+- Agent evaluation: task validity, behavioral grading, reliability, and efficiency <br>
 - Reinforcement learning for LLM post-training (GSPO, GRPO, DAPO, RLAIF) <br>
 - Reward design and evaluation: LLM judges, rubric rewards, reward-hacking mitigation <br>
 - Training and inference systems for large-scale RL <br>
