@@ -28,7 +28,7 @@ I completed my Ph.D. at **Rutgers University** under [Prof. Yongfeng Zhang](http
 # Open Source
 
 - **[CSR Bench](https://github.com/amazon-science/CSR-Bench)** - Multi-Agent system for automatic computer science research repo exploration (NAACL 2025 Oral)
-- **[SkillsBench](https://github.com/benchflow-ai/skillsbench)** - Benchmark for evaluating how well AI agents leverage skills to perform specialized workflows. Independent Contributor. [[arXiv](https://arxiv.org/abs/2602.12670)]
+- **[SkillsBench](https://github.com/benchflow-ai/skillsbench)** - Benchmark for evaluating how well AI agents leverage skills to perform specialized workflows. NeurIPS 2026. Independent Contributor. [[arXiv](https://arxiv.org/abs/2602.12670)]
 - **[Sudowoodo](https://github.com/megagonlabs/sudowoodo)** - Contrastive self-supervised learning framework for multi-purpose data integration (entity matching, data cleaning, column type detection). ICDE 2023.
 - **[DeltaPQ](https://github.com/RunhuiWang/DeltaPQ)** - Lossless product quantization compression for similarity search (PVLDB 2020)
 - **[PAFO](https://github.com/RunhuiWang/PAFO-release)** - Parallel approximate personalized PageRank (VLDB Journal 2019)
@@ -37,7 +37,7 @@ I completed my Ph.D. at **Rutgers University** under [Prof. Yongfeng Zhang](http
 
 # Publications
 
-1. [SkillsBench: Benchmarking How Well Agent Skills Work Across Diverse Tasks](https://arxiv.org/abs/2602.12670) ***arXiv 2026***  
+1. [SkillsBench: Benchmarking How Well Agent Skills Work Across Diverse Tasks](https://arxiv.org/abs/2602.12670) ***NeurIPS 2026***  
 <!-- TODO: add author line reflecting your position among the co-authors -->
 
 2. [CSR-Bench: Benchmarking LLM Agents in Deployment of Computer Science Research Repositories](https://arxiv.org/abs/2502.06111) ***NAACL 2025 Oral***  
