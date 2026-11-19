@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a **Founding Research Scientist at [Cline](https://cline.bot/)**, working on AI agents and their evaluation. My current focus is **[Cline-Bench](https://cline.bot/blog/cline-bench-initiative)**, a benchmark built from real user requests. I work on task construction and validation, behavior-based grading, and reproducible evaluation pipelines to understand agents' capabilities, reliability, and efficiency. This includes identifying grading defects, testing for reward hacking, and preserving task behavior when replacing private data with synthetic examples.
+I'm a **Founding Research Scientist at [Cline](https://cline.bot/)**, working on AI agents and their evaluation. My current focus is **[Cline-Bench](https://cline.bot/blog/cline-bench-initiative)**, a benchmark built from real user requests. I build automated task curation and validation pipelines that turn real user requests into reproducible environments for agent evaluation and reinforcement learning, with checks for task quality, grading reliability, and privacy.
 
 Previously, I was an Applied Scientist and technical lead at **AWS**, working on reinforcement learning for LLM post-training, rubric-based reward design, and reward-hacking mitigation. I built training and inference systems on NVIDIA Blackwell and Hopper clusters using verl, vLLM, FSDP, and custom kernels, with a focus on training-inference consistency and quantization numerics. My work also covered mechanistic interpretability and activation-level model steering, as well as billion-scale ML products for entity resolution and retrieval.
 
